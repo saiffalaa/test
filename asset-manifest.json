@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Inovola/static/css/main.16d2c407.chunk.css",
+    "main.js": "/Inovola/static/js/main.8e79ce43.chunk.js",
+    "main.js.map": "/Inovola/static/js/main.8e79ce43.chunk.js.map",
+    "runtime-main.js": "/Inovola/static/js/runtime-main.fd73f383.js",
+    "runtime-main.js.map": "/Inovola/static/js/runtime-main.fd73f383.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Inovola/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.94cf4748.chunk.js": "/Inovola/static/js/2.94cf4748.chunk.js",
+    "static/js/2.94cf4748.chunk.js.map": "/Inovola/static/js/2.94cf4748.chunk.js.map",
+    "static/js/3.2c545f08.chunk.js": "/Inovola/static/js/3.2c545f08.chunk.js",
+    "static/js/3.2c545f08.chunk.js.map": "/Inovola/static/js/3.2c545f08.chunk.js.map",
+    "index.html": "/Inovola/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Inovola/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.16d2c407.chunk.css.map": "/Inovola/static/css/main.16d2c407.chunk.css.map",
+    "static/js/2.94cf4748.chunk.js.LICENSE.txt": "/Inovola/static/js/2.94cf4748.chunk.js.LICENSE.txt",
+    "static/media/Video1.ed585136.mp4": "/Inovola/static/media/Video1.ed585136.mp4",
+    "static/media/Video2.996bcb9d.mp4": "/Inovola/static/media/Video2.996bcb9d.mp4",
+    "static/media/bigLogo.8893384d.png": "/Inovola/static/media/bigLogo.8893384d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd73f383.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.94cf4748.chunk.js",
+    "static/css/main.16d2c407.chunk.css",
+    "static/js/main.8e79ce43.chunk.js"
+  ]
+}
