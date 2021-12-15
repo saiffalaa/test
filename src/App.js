@@ -1,22 +1,21 @@
-import "./Style/style.css";
-import SideBar from "./Components/SideBar";
-import TopBar from "./Components/TopBar";
-import SearchBar from "./Components/SearchBar";
-import PersonCard from "./Components/PersonCard";
-
+import React from "react";
+import Navbar from "./Components/Navbar";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./Style/styles.css";
+import Header from "./Components/Header";
+import Video from "./Components/Video";
+import AppsDesc from "./Components/AppsDesc";
+import Apps from "./Components/Apps";
+import Footer from "./Components/Footer";
 function App() {
-  let arr = [];
-  for (let i = 0; i < 32; i++) arr.push("");
   return (
-    <div className="bg-color allWidth">
-      <TopBar />
-      <SideBar></SideBar>
-      <SearchBar />
-      <div className="d-flex justify-content-center flex-wrap ml">
-        {arr.map(() => (
-          <PersonCard className="width" />
-        ))}
-      </div>
+    <div>
+      <Navbar />
+      <Header />
+      <Video />
+      <AppsDesc />
+      <Apps />
+      <Footer />
     </div>
   );
 }
